@@ -1,1 +1,1 @@
-Laser Attack Benchmark Suite (LABS) (Alpha)
+# Laser Attack Benchmark Suite (LABS) (Alpha)
